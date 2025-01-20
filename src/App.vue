@@ -21,7 +21,7 @@
 
         <div class="infoText">
           <h1>Hi,</h1>
-          <h1>I'm <span class="qn">鹊楠</span></h1>
+          <h1>I'm <span class="qn">伽陀</span></h1>
         </div>
       </div>
 
@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Quenan | ©2024
+      By ajiatuo | ©2024
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
