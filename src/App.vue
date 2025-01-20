@@ -153,9 +153,9 @@ export default {
       techHidden: true,
       aboutHidden: true,
       typingTexts: [
-        "你好鸭，欢迎来到我的主页！",
-        "彼方尚有荣光在，世界不止眼前的苟且，还有诗和远方",
-        "累了可以在我这里歇歇脚嗷",
+        "你好，欢迎来到伽陀的主页！",
+        "阿伽陀，一个行走在生命无尽旅途中的行者",
+        "累了可以休息",
         "May you happy every day",
       ],
       btnList: [
@@ -163,25 +163,25 @@ export default {
           icon: 'icon-wodeboke',
           animate: '博客',
           color: '#fe8599',
-          href: 'https://blog.quenan.love'
+          href: 'https://blog.ajiatuo.cn'
         },
         {
           icon: 'icon-github',
           animate: 'Github',
           color: '#3d3d3d',
-          href: 'https://github.com/QNquenan'
+          href: 'https://github.com/ajiatuo'
         },
         {
           icon: 'icon-bilibili',
           animate: 'BiliBili',
           color: '#0BA6D8',
-          href: 'https://space.bilibili.com/495882959'
+          href: 'https://space.bilibili.com/401618871'
         },
         {
           icon: 'icon-youjian1',
           animate: 'E-mail',
           color: '#FACB1E',
-          href: 'mailto:qn2987271942@outlook.com'
+          href: '565354403@qq.com'
         },
         {
           icon: 'icon-wangyiyunyinle1',
@@ -222,7 +222,7 @@ export default {
           content: 'Github'
         }
       ],
-      upTime: '2024-09-16',
+      upTime: '2025-01-20',
       version: 'beta3',
       gridRows: 9,
       gridCols: 5,
